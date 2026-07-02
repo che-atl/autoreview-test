@@ -1,0 +1,1 @@
+prentln("bye")
